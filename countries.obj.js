@@ -1,4 +1,4 @@
-Countries = [
+countries = [
 	{
 		"name": "Afghanistan",
 		"code": "AF",
@@ -3906,7 +3906,7 @@ Countries = [
       	"flag": "https://restcountries.eu/data/ven.svg"
    	},
    	{
-      	"name": "Viet Nam",
+      	"name": "VietNam",
       	"code": "VN",
       	"capital": "Hanoi",
       	"region": "AS",
