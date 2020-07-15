@@ -3,6 +3,7 @@ countries = [
 		"name": "Afghanistan",
 		"code": "AF",
 		"capital": "Kabul",
+		"population": 37172386,
 		"region": "AS",
 		"currency": {
 			"code": "AFN",
@@ -19,6 +20,7 @@ countries = [
 		"name": "Åland Islands",
 		"code": "AX",
 		"capital": "Mariehamn",
+		"population": 28007,
 		"region": "EU",
 		"currency": {
 			"code": "EUR",
@@ -35,6 +37,7 @@ countries = [
 		"name": "Albania",
 		"code": "AL",
 		"capital": "Tirana",
+        "population": 2866376,
 		"region": "EU",
 		"currency": {
 			"code": "ALL",
@@ -51,6 +54,7 @@ countries = [
 		"name": "Algeria",
 		"code": "DZ",
 		"capital": "Algiers",
+        "population": 42228429,
 		"region": "AF",
 		"currency": {
 			"code": "DZD",
@@ -67,6 +71,7 @@ countries = [
 		"name": "American Samoa",
 		"code": "AS",
 		"capital": "Pago Pago",
+        "population": 55465,
 		"region": "OC",
 		"currency": {
 			"code": "USD",
@@ -83,6 +88,7 @@ countries = [
 		"name": "Andorra",
 		"code": "AD",
 		"capital": "Andorra la Vella",
+        "population": 77006,
 		"region": "EU",
 		"currency": {
 			"code": "EUR",
@@ -99,6 +105,7 @@ countries = [
 		"name": "Angola",
 		"code": "AO",
 		"capital": "Luanda",
+        "population": 30809762,
 		"region": "AF",
 		"currency": {
 			"code": "AOA",
@@ -115,6 +122,7 @@ countries = [
 		"name": "Anguilla",
 		"code": "AI",
 		"capital": "The Valley",
+        "population": 15094,
 		"region": "NA",
 		"currency": {
 			"code": "XCD",
@@ -131,6 +139,8 @@ countries = [
 		"name": "Antigua and Barbuda",
 		"code": "AG",
 		"capital": "Saint John's",
+        "population": 96286,
+
 		"region": "NA",
 		"currency": {
 			"code": "XCD",
@@ -147,6 +157,7 @@ countries = [
 		"name": "Argentina",
 		"code": "AR",
 		"capital": "Buenos Aires",
+        "population": 44494502,
 		"region": "SA",
 		"currency": {
 			"code": "ARS",
@@ -163,6 +174,7 @@ countries = [
 		"name": "Armenia",
 		"code": "AM",
 		"capital": "Yerevan",
+        "population": 2951776,
 		"region": "AS",
 		"currency": {
 			"code": "AMD",
@@ -179,6 +191,7 @@ countries = [
 		"name": "Aruba",
 		"code": "AW",
 		"capital": "Oranjestad",
+        "population": 105845,
 		"region": "SA",
 		"currency": {
 			"code": "AWG",
@@ -195,6 +208,8 @@ countries = [
 		"name": "Australia",
 		"code": "AU",
 		"capital": "Canberra",
+        "population": 24982688,
+
 		"region": "OC",
 		"currency": {
 			"code": "AUD",
@@ -211,6 +226,8 @@ countries = [
 		"name": "Austria",
 		"code": "AT",
 		"capital": "Vienna",
+        "population": 8840521,
+
 		"region": "EU",
 		"currency": {
 			"code": "EUR",
@@ -227,6 +244,8 @@ countries = [
 		"name": "Azerbaijan",
 		"code": "AZ",
 		"capital": "Baku",
+        "population": 9939800,
+
 		"region": "AS",
 		"currency": {
 			"code": "AZN",
@@ -243,6 +262,7 @@ countries = [
 		"name": "Bahamas",
 		"code": "BS",
 		"capital": "Nassau",
+        "population": 385640,
 		"region": "NA",
 		"currency": {
 			"code": "BSD",
@@ -259,6 +279,7 @@ countries = [
 		"name": "Bahrain",
 		"code": "BH",
 		"capital": "Manama",
+        "population": 1569439,
 		"region": "AS",
 		"currency": {
 			"code": "BHD",
@@ -275,6 +296,7 @@ countries = [
 		"name": "Bangladesh",
 		"code": "BD",
 		"capital": "Dhaka",
+        "population": 161356039,
 		"region": "AS",
 		"currency": {
 			"code": "BDT",
@@ -291,6 +313,7 @@ countries = [
 		"name": "Barbados",
 		"code": "BB",
 		"capital": "Bridgetown",
+        "population": 286641,
 		"region": "NA",
 		"currency": {
 			"code": "BBD",
@@ -307,6 +330,7 @@ countries = [
 		"name": "Belarus",
 		"code": "BY",
 		"capital": "Minsk",
+        "population": 9483499,
 		"region": "EU",
 		"currency": {
 			"code": "BYN",
@@ -323,6 +347,7 @@ countries = [
 		"name": "Belgium",
 		"code": "BE",
 		"capital": "Brussels",
+        "population": 11433256,
 		"region": "EU",
 		"currency": {
 			"code": "EUR",
@@ -339,6 +364,7 @@ countries = [
 		"name": "Belize",
 		"code": "BZ",
 		"capital": "Belmopan",
+        "population": 383071,
 		"region": "NA",
 		"currency": {
 			"code": "BZD",
@@ -355,6 +381,7 @@ countries = [
 		"name": "Benin",
 		"code": "BJ",
 		"capital": "Porto-Novo",
+        "population": 11485048,
 		"region": "AF",
 		"currency": {
 			"code": "XOF",
@@ -371,6 +398,7 @@ countries = [
 		"name": "Bermuda",
 		"code": "BM",
 		"capital": "Hamilton",
+        "population": 63973,
 		"region": "NA",
 		"currency": {
 			"code": "BMD",
@@ -387,6 +415,7 @@ countries = [
 		"name": "Bhutan",
 		"code": "BT",
 		"capital": "Thimphu",
+        "population": 754394,
 		"region": "AS",
 		"currency": {
 			"code": "BTN",
@@ -400,9 +429,11 @@ countries = [
 		"flag": "https://restcountries.eu/data/btn.svg",
 	},
 	{
-		"name": "Bolivia (Plurinational State of)",
+		"name": "Bolivia",
 		"code": "BO",
 		"capital": "Sucre",
+        "population": 11353142,
+
 		"region": "SA",
 		"currency": {
 			"code": "BOB",
@@ -416,9 +447,11 @@ countries = [
 		"flag": "https://restcountries.eu/data/bol.svg",
 	},
 	{
-		"name": "Bonaire, Sint Eustatius and Saba",
+		"name": "Bonaire",
 		"code": "BQ",
 		"capital": "Kralendijk",
+        "population": 20104,
+
 		"region": "SA",
 		"currency": {
 			"code": "USD",
@@ -435,6 +468,7 @@ countries = [
 		"name": "Bosnia and Herzegovina",
 		"code": "BA",
 		"capital": "Sarajevo",
+        "population": 3323929,
 		"region": "EU",
 		"currency": {
 			"code": "BAM",
@@ -451,6 +485,7 @@ countries = [
 		"name": "Botswana",
 		"code": "BW",
 		"capital": "Gaborone",
+        "population": 2254126,
 		"region": "AF",
 		"currency": {
 			"code": "BWP",
@@ -467,6 +502,7 @@ countries = [
 		"name": "Bouvet Island",
 		"code": "BV",
 		"capital": "",
+        "population": 0,
 		"region": "AN",
 		"currency": {
 			"code": "NOK",
@@ -483,6 +519,7 @@ countries = [
 		"name": "Brazil",
 		"code": "BR",
 		"capital": "Brasília",
+        "population": 209469333,
 		"region": "SA",
 		"currency": {
 			"code": "BRL",
@@ -499,6 +536,7 @@ countries = [
 		"name": "British Indian Ocean Territory",
 		"code": "IO",
 		"capital": "Diego Garcia",
+        "population": 0,
 		"region": "AF",
 		"currency": {
 			"code": "USD",
@@ -515,6 +553,7 @@ countries = [
 		"name": "United States Minor Outlying Islands",
 		"code": "UM",
 		"capital": "",
+        "population": 22763,
 		"region": "NA",
 		"currency": {
 			"code": "USD",
@@ -531,6 +570,7 @@ countries = [
 		"name": "Virgin Islands (British)",
 		"code": "VG",
 		"capital": "Road Town",
+        "population": 30231,
 		"region": "NA",
 		"currency": {
 			"code": "USD",
@@ -547,6 +587,7 @@ countries = [
 		"name": "Virgin Islands (U.S.)",
 		"code": "VI",
 		"capital": "Charlotte Amalie",
+        "population": 104425,
 		"region": "NA",
 		"currency": {
 			"code": "USD",
@@ -563,6 +604,7 @@ countries = [
 		"name": "Brunei Darussalam",
 		"code": "BN",
 		"capital": "Bandar Seri Begawan",
+        "population": 428962,
 		"region": "AS",
 		"currency": {
 			"code": "BND",
@@ -579,6 +621,7 @@ countries = [
 		"name": "Bulgaria",
 		"code": "BG",
 		"capital": "Sofia",
+        "population": 7025037,
 		"region": "EU",
 		"currency": {
 			"code": "BGN",
@@ -595,6 +638,7 @@ countries = [
 		"name": "Burkina Faso",
 		"code": "BF",
 		"capital": "Ouagadougou",
+        "population": 19751535,
 		"region": "AF",
 		"currency": {
 			"code": "XOF",
@@ -611,6 +655,7 @@ countries = [
 		"name": "Burundi",
 		"code": "BI",
 		"capital": "Bujumbura",
+        "population": 11175378,
 		"region": "AF",
 		"currency": {
 			"code": "BIF",
@@ -627,6 +672,7 @@ countries = [
 		"name": "Cambodia",
 		"code": "KH",
 		"capital": "Phnom Penh",
+        "population": 16249798,
 		"region": "AS",
 		"currency": {
 			"code": "KHR",
@@ -643,6 +689,7 @@ countries = [
 		"name": "Cameroon",
 		"code": "CM",
 		"capital": "Yaoundé",
+        "population": 25216237,
 		"region": "AF",
 		"currency": {
 			"code": "XAF",
@@ -659,6 +706,7 @@ countries = [
 		"name": "Canada",
 		"code": "CA",
 		"capital": "Ottawa",
+        "population": 37057765,
 		"region": "NA",
 		"currency": {
 			"code": "CAD",
@@ -675,6 +723,7 @@ countries = [
 		"name": "Cabo Verde",
 		"code": "CV",
 		"capital": "Praia",
+        "population": 543767,
 		"region": "AF",
 		"currency": {
 			"code": "CVE",
@@ -693,6 +742,7 @@ countries = [
 		"name": "Cayman Islands",
 		"code": "KY",
 		"capital": "George Town",
+        "population": 64174,
 		"region": "NA",
 		"demonym": "Caymanian",
 		"currency": {
@@ -710,6 +760,7 @@ countries = [
 		"name": "Central African Republic",
 		"code": "CF",
 		"capital": "Bangui",
+        "population": 4666377,
 		"region": "AF",
 		"currency": {
 			"code": "XAF",
@@ -726,6 +777,7 @@ countries = [
 		"name": "Chad",
 		"code": "TD",
 		"capital": "N'Djamena",
+        "population": 15477751,
 		"region": "AF",
 		"currency": {
 			"code": "XAF",
@@ -742,6 +794,7 @@ countries = [
 		"name": "Chile",
 		"code": "CL",
 		"capital": "Santiago",
+        "population": 18729160,
 		"region": "SA",
 		"currency": {
 			"code": "CLP",
@@ -760,6 +813,7 @@ countries = [
 		"name": "China",
 		"code": "CN",
 		"capital": "Beijing",
+        "population": 1392730270,
 		"region": "AS",
 		"currency": {
 			"code": "CNY",
@@ -776,6 +830,7 @@ countries = [
 		"name": "Christmas Island",
 		"code": "CX",
 		"capital": "Flying Fish Cove",
+        "population": 1402,
 		"region": "OC",
 		"currency": {
 			"code": "AUD",
@@ -792,6 +847,7 @@ countries = [
 		"name": "Cocos (Keeling) Islands",
 		"code": "CC",
 		"capital": "West Island",
+        "population": 596,
 		"region": "OC",
 		"currency": {
 			"code": "AUD",
@@ -808,6 +864,7 @@ countries = [
 		"name": "Colombia",
 		"code": "CO",
 		"capital": "Bogotá",
+        "population": 49648685,
 		"region": "SA",
 		"currency": {
 			"code": "COP",
@@ -824,6 +881,7 @@ countries = [
 		"name": "Comoros",
 		"code": "KM",
 		"capital": "Moroni",
+        "population": 832322,
 		"region": "AF",
 		"currency": {
 			"code": "KMF",
@@ -840,6 +898,7 @@ countries = [
 		"name": "Congo",
 		"code": "CG",
 		"capital": "Brazzaville",
+        "population": 5244363,
 		"region": "AF",
 		"currency": {
 			"code": "XAF",
@@ -856,6 +915,7 @@ countries = [
 		"name": "Congo (Democratic Republic of the)",
 		"code": "CD",
 		"capital": "Kinshasa",
+        "population": 89561403,
 		"region": "AF",
 		"currency": {
 			"code": "CDF",
@@ -872,6 +932,7 @@ countries = [
 		"name": "Cook Islands",
 		"code": "CK",
 		"capital": "Avarua",
+        "population": 17379,
 		"region": "OC",
 		"currency": {
 			"code": "NZD",
@@ -888,6 +949,7 @@ countries = [
 		"name": "Costa Rica",
 		"code": "CR",
 		"capital": "San José",
+        "population": 4999441,
 		"region": "NA",
 		"currency": {
 			"code": "CRC",
@@ -904,6 +966,7 @@ countries = [
 		"name": "Croatia",
 		"code": "HR",
 		"capital": "Zagreb",
+        "population": 4087843,
 		"region": "EU",
 		"currency": {
 			"code": "HRK",
@@ -920,6 +983,7 @@ countries = [
 		"name": "Cuba",
 		"code": "CU",
 		"capital": "Havana",
+        "population": 11338138,
 		"region": "NA",
 		"currency": {
 			"code": "CUC",
@@ -936,6 +1000,7 @@ countries = [
 		"name": "Curaçao",
 		"code": "CW",
 		"capital": "Willemstad",
+        "population": 164093,
 		"region": "SA",
 		"currency": {
 			"code": "ANG",
@@ -952,6 +1017,7 @@ countries = [
 		"name": "Cyprus",
 		"code": "CY",
 		"capital": "Nicosia",
+        "population": 1189265,
 		"region": "EU",
 		"currency": {
 			"code": "EUR",
@@ -968,6 +1034,7 @@ countries = [
 		"name": "Czech Republic",
 		"code": "CZ",
 		"capital": "Prague",
+        "population": 10629928,
 		"region": "EU",
 		"currency": {
 			"code": "CZK",
@@ -984,6 +1051,7 @@ countries = [
 		"name": "Denmark",
 		"code": "DK",
 		"capital": "Copenhagen",
+        "population": 5793636,
 		"region": "EU",
 		"currency": {
 			"code": "DKK",
@@ -1000,6 +1068,7 @@ countries = [
 		"name": "Djibouti",
 		"code": "DJ",
 		"capital": "Djibouti",
+        "population": 958920,
 		"region": "AF",
 		"currency": {
 			"code": "DJF",
@@ -1016,6 +1085,7 @@ countries = [
 		"name": "Dominica",
 		"code": "DM",
 		"capital": "Roseau",
+        "population": 71625,
 		"region": "NA",
 		"currency": {
 			"code": "XCD",
@@ -1032,6 +1102,7 @@ countries = [
 		"name": "Dominican Republic",
 		"code": "DO",
 		"capital": "Santo Domingo",
+        "population": 10627165,
 		"region": "NA",
 		"currency": {
 			"code": "DOP",
@@ -1048,6 +1119,7 @@ countries = [
 		"name": "Ecuador",
 		"code": "EC",
 		"capital": "Quito",
+        "population": 17084357,
 		"region": "SA",
 		"currency": {
 			"code": "USD",
@@ -1064,6 +1136,7 @@ countries = [
 		"name": "Egypt",
 		"code": "EG",
 		"capital": "Cairo",
+        "population": 98423595,
 		"region": "AF",
 		"currency": {
 			"code": "EGP",
@@ -1080,6 +1153,7 @@ countries = [
 		"name": "El Salvador",
 		"code": "SV",
 		"capital": "San Salvador",
+        "population": 6420744,
 		"region": "NA",
 		"currency": {
 			"code": "USD",
@@ -1096,6 +1170,7 @@ countries = [
 		"name": "Equatorial Guinea",
 		"code": "GQ",
 		"capital": "Malabo",
+        "population": 1308974,
 		"region": "AF",
 		"currency": {
 			"code": "XAF",
@@ -1114,6 +1189,7 @@ countries = [
 		"name": "Eritrea",
 		"code": "ER",
 		"capital": "Asmara",
+        "population": 3213972,
 		"region": "AF",
 		"currency": {
 			"code": "ERN",
@@ -1130,6 +1206,7 @@ countries = [
 		"name": "Estonia",
 		"code": "EE",
 		"capital": "Tallinn",
+        "population": 1321977,
 		"region": "EU",
 		"currency": {
 			"code": "EUR",
@@ -1146,6 +1223,7 @@ countries = [
 		"name": "Ethiopia",
 		"code": "ET",
 		"capital": "Addis Ababa",
+        "population": 109224559,
 		"region": "AF",
 		"currency": {
 			"code": "ETB",
@@ -1159,9 +1237,10 @@ countries = [
 		"flag": "https://restcountries.eu/data/eth.svg",
 	},
 	{
-		"name": "Falkland Islands (Malvinas)",
+		"name": "Falkland Islands",
 		"code": "FK",
 		"capital": "Stanley",
+        "population": 2840,
 		"region": "SA",
 		"currency": {
 			"code": "FKP",
@@ -1178,6 +1257,7 @@ countries = [
 		"name": "Faroe Islands",
 		"code": "FO",
 		"capital": "Tórshavn",
+        "population": 48497,
 		"region": "EU",
 		"currency": {
 			"code": "DKK",
@@ -1191,9 +1271,10 @@ countries = [
 		"flag": "https://restcountries.eu/data/fro.svg",
 	},
 	{
-		"name": "Fiji",
+		"name": "Fiji Islands",
 		"code": "FJ",
 		"capital": "Suva",
+        "population": 883483,
 		"region": "OC",
 		"currency": {
 			"code": "FJD",
@@ -1210,6 +1291,7 @@ countries = [
 		"name": "Finland",
 		"code": "FI",
 		"capital": "Helsinki",
+        "population": 5515525,
 		"region": "EU",
 		"currency": {
 			"code": "EUR",
@@ -1228,6 +1310,7 @@ countries = [
 		"name": "France",
 		"code": "FR",
 		"capital": "Paris",
+        "population": 66977107,
 		"region": "EU",
 		"demonym": "French",
 		"currency": {
@@ -1245,6 +1328,7 @@ countries = [
 		"name": "French Guiana",
 		"code": "GF",
 		"capital": "Cayenne",
+        "population": 290691,
 		"region": "SA",
 		"currency": {
 			"code": "EUR",
@@ -1261,6 +1345,7 @@ countries = [
 		"name": "French Polynesia",
 		"code": "PF",
 		"capital": "Papeetē",
+        "population": 277679,
 		"region": "OC",
 		"currency": {
 			"code": "XPF",
@@ -1277,6 +1362,7 @@ countries = [
 		"name": "French Southern Territories",
 		"code": "TF",
 		"capital": "Port-aux-Français",
+        "population": 0,
 		"region": "AF",
 		"currency": {
 			"code": "EUR",
@@ -1293,6 +1379,7 @@ countries = [
 		"name": "Gabon",
 		"code": "GA",
 		"capital": "Libreville",
+        "population": 2119275,
 		"region": "AF",
 		"currency": {
 			"code": "XAF",
@@ -1309,6 +1396,7 @@ countries = [
 		"name": "Gambia",
 		"code": "GM",
 		"capital": "Banjul",
+        "population": 2280102,
 		"region": "AF",
 		"currency": {
 			"code": "GMD",
@@ -1325,6 +1413,7 @@ countries = [
 		"name": "Georgia",
 		"code": "GE",
 		"capital": "Tbilisi",
+        "population": 3726549,
 		"region": "AS",
 		"currency": {
 			"code": "GEL",
@@ -1341,6 +1430,7 @@ countries = [
 		"name": "Germany",
 		"code": "DE",
 		"capital": "Berlin",
+        "population": 82905782,
 		"region": "EU",
 		"currency": {
 			"code": "EUR",
@@ -1357,6 +1447,7 @@ countries = [
 		"name": "Ghana",
 		"code": "GH",
 		"capital": "Accra",
+        "population": 29767108,
 		"region": "AF",
 		"currency": {
 			"code": "GHS",
@@ -1373,6 +1464,7 @@ countries = [
 		"name": "Gibraltar",
 		"code": "GI",
 		"capital": "Gibraltar",
+        "population": 33718,
 		"region": "EU",
 		"currency": {
 			"code": "GIP",
@@ -1389,6 +1481,7 @@ countries = [
 		"name": "Greece",
 		"code": "GR",
 		"capital": "Athens",
+        "population": 10731726,
 		"region": "EU",
 		"currency": {
 			"code": "EUR",
@@ -1405,6 +1498,7 @@ countries = [
 		"name": "Greenland",
 		"code": "GL",
 		"capital": "Nuuk",
+        "population": 56025,
 		"region": "NA",
 		"currency": {
 			"code": "DKK",
@@ -1421,6 +1515,7 @@ countries = [
 		"name": "Grenada",
 		"code": "GD",
 		"capital": "St. George's",
+        "population": 111454,
 		"region": "NA",
 		"currency": {
 			"code": "XCD",
@@ -1437,6 +1532,7 @@ countries = [
 		"name": "Guadeloupe",
 		"code": "GP",
 		"capital": "Basse-Terre",
+        "population": 395700,
 		"region": "NA",
 		"currency": {
 			"code": "EUR",
@@ -1453,6 +1549,7 @@ countries = [
 		"name": "Guam",
 		"code": "GU",
 		"capital": "Hagåtña",
+        "population": 165768,
 		"region": "OC",
 		"currency": {
 			"code": "USD",
@@ -1469,6 +1566,7 @@ countries = [
 		"name": "Guatemala",
 		"code": "GT",
 		"capital": "Guatemala City",
+        "population": 17247807,
 		"region": "NA",
 		"currency": {
 			"code": "GTQ",
@@ -1485,6 +1583,7 @@ countries = [
 		"name": "Guernsey",
 		"code": "GG",
 		"capital": "St. Peter Port",
+        "population": 62792,
 		"region": "EU",
 		"currency": {
 			"code": "GBP",
@@ -1501,6 +1600,7 @@ countries = [
 		"name": "Guinea",
 		"code": "GN",
 		"capital": "Conakry",
+        "population": 12414318,
 		"region": "AF",
 		"currency": {
 			"code": "GNF",
@@ -1516,7 +1616,8 @@ countries = [
 	{
 		"name": "Guinea-Bissau",
       	"code": "GW",
-      	"capital": "Bissau",
+		"capital": "Bissau",
+		"population": 1874309,
       	"region": "AF",
       	"currency": {
             "code": "XOF",
@@ -1532,7 +1633,8 @@ countries = [
    	{
       	"name": "Guyana",
       	"code": "GY",
-      	"capital": "Georgetown",
+		  "capital": "Georgetown",
+		  "population": 779004,
       	"region": "SA",
       	"currency": {
             "code": "GYD",
@@ -1548,7 +1650,8 @@ countries = [
    	{
       	"name": "Haiti",
       	"code": "HT",
-      	"capital": "Port-au-Prince",
+		  "capital": "Port-au-Prince",
+		  "population": 11123176,
       	"region": "Americas",
       	"currency": {
             "code": "HTG",
@@ -1564,7 +1667,8 @@ countries = [
    	{
       	"name": "Heard Island and McDonald Islands",
       	"code": "HM",
-      	"capital": "",
+		  "capital": "",
+		  "population": 0,
       	"region": "",
       	"currency": {
             "code": "AUD",
@@ -1578,9 +1682,10 @@ countries = [
       	"flag": "https://restcountries.eu/data/hmd.svg"
    	},
    	{
-      	"name": "Holy See",
+      	"name": "Holy See (Vatican City State)",
       	"code": "VA",
-      	"capital": "Rome",
+		  "capital": "Rome",
+		  "population": 825,
   		"region": "EU",
       	"currency": {
             "code": "EUR",
@@ -1596,7 +1701,8 @@ countries = [
    	{
       	"name": "Honduras",
       	"code": "HN",
-      	"capital": "Tegucigalpa",
+		  "capital": "Tegucigalpa",
+		  "population": 9587522,
       	"region": "NA",
       	"currency": {
             "code": "HNL",
@@ -1612,7 +1718,8 @@ countries = [
    	{
   		"name": "Hong Kong",
       	"code": "HK",
-      	"capital": "City of Victoria",
+		  "capital": "City of Victoria",
+		  "population": 7451000,
       	"region": "AS",
       	"currency": {
             "code": "HKD",
@@ -1628,7 +1735,8 @@ countries = [
    	{
       	"name": "Hungary",
       	"code": "HU",
-      	"capital": "Budapest",
+		  "capital": "Budapest",
+		  "population": 9775564,
       	"region": "EU",
       	"currency": {
             "code": "HUF",
@@ -1644,7 +1752,8 @@ countries = [
    	{
       	"name": "Iceland",
       	"code": "IS",
-      	"capital": "Reykjavík",
+		  "capital": "Reykjavík",
+		  "population": 352721,
       	"region": "EU",
       	"currency": {
             "code": "ISK",
@@ -1660,7 +1769,8 @@ countries = [
    	{
       	"name": "India",
       	"code": "IN",
-      	"capital": "New Delhi",
+		  "capital": "New Delhi",
+		  "population": 1352617328,
       	"region": "AS",
       	"currency": {
             "code": "INR",
@@ -1676,7 +1786,8 @@ countries = [
    	{
       	"name": "Indonesia",
       	"code": "ID",
-      	"capital": "Jakarta",
+		  "capital": "Jakarta",
+		  "population": 267663435,
       	"region": "AS",
       	"currency": {
             "code": "IDR",
@@ -1692,7 +1803,8 @@ countries = [
    	{
       	"name": "Côte d'Ivoire",
       	"code": "CI",
-      	"capital": "Yamoussoukro",
+		  "capital": "Yamoussoukro",
+		  "population": 26378274,
       	"region": "AF",
       	"currency": {
             "code": "XOF",
@@ -1708,7 +1820,8 @@ countries = [
    	{
       	"name": "Iran (Islamic Republic of)",
       	"code": "IR",
-      	"capital": "Tehran",
+		  "capital": "Tehran",
+		  "population": 81800269,
       	"region": "AS",
       	"currency": {
             "code": "IRR",
@@ -1724,7 +1837,8 @@ countries = [
    	{
       	"name": "Iraq",
       	"code": "IQ",
-      	"capital": "Baghdad",
+		  "capital": "Baghdad",
+		  "population": 38433600,
       	"region": "AS",
       	"currency": {
             "code": "IQD",
@@ -1740,7 +1854,8 @@ countries = [
    	{
       	"name": "Ireland",
       	"code": "IE",
-      	"capital": "Dublin",
+		  "capital": "Dublin",
+		  "population": 4867309,
       	"region": "EU",
       	"currency": {
             "code": "EUR",
@@ -1756,7 +1871,8 @@ countries = [
    	{
       	"name": "Isle of Man",
       	"code": "IM",
-      	"capital": "Douglas",
+		  "capital": "Douglas",
+		  "population": 85033,
       	"region": "EU",
       	"currency": {
             "code": "GBP",
@@ -1772,7 +1888,8 @@ countries = [
    	{
       	"name": "Israel",
       	"code": "IL",
-      	"capital": "Jerusalem",
+		  "capital": "Jerusalem",
+		  "population": 8882800,
       	"region": "AS",
       	"currency": {
             "code": "ILS",
@@ -1788,7 +1905,8 @@ countries = [
    	{
       	"name": "Italy",
       	"code": "IT",
-      	"capital": "Rome",
+		  "capital": "Rome",
+		  "population": 60421760,
       	"region": "EU",
       	"currency": {
             "code": "EUR",
@@ -1804,7 +1922,8 @@ countries = [
    {
       	"name": "Jamaica",
       	"code": "JM",
-      	"capital": "Kingston",
+		  "capital": "Kingston",
+		  "population": 2934855,
       	"region": "NA",
       	"currency": {
             "code": "JMD",
@@ -1820,7 +1939,8 @@ countries = [
    	{
       	"name": "Japan",
       	"code": "JP",
-      	"capital": "Tokyo",
+		  "capital": "Tokyo",
+		  "population": 126529100,
       	"region": "AS",
       	"currency": {
             "code": "JPY",
@@ -1836,7 +1956,8 @@ countries = [
    	{
       	"name": "Jersey",
       	"code": "JE",
-      	"capital": "Saint Helier",
+		  "capital": "Saint Helier",
+		  "population": 107800,
       	"region": "EU",
       	"currency": {
             "code": "GBP",
@@ -1854,7 +1975,8 @@ countries = [
    	{
       	"name": "Jordan",
       	"code": "JO",
-      	"capital": "Amman",
+		  "capital": "Amman",
+		  "population": 9956011,
       	"region": "AS",
       	"currency": {
             "code": "JOD",
@@ -1870,7 +1992,8 @@ countries = [
    	{
       	"name": "Kazakhstan",
       	"code": "KZ",
-      	"capital": "Astana",
+		  "capital": "Astana",
+		  "population": 18272430,
       	"region": "AS",
       	"currency": {
             "code": "KZT",
@@ -1886,7 +2009,8 @@ countries = [
    	{
       	"name": "Kenya",
       	"code": "KE",
-      	"capital": "Nairobi",
+		  "capital": "Nairobi",
+		  "population": 51393010,
       	"region": "AF",
       	"currency": {
             "code": "KES",
@@ -1902,7 +2026,8 @@ countries = [
    	{
       	"name": "Kiribati",
       	"code": "KI",
-      	"capital": "South Tarawa",
+		  "capital": "South Tarawa",
+		  "population": 115847,
       	"region": "OC",
       	"currency": {
             "code": "AUD",
@@ -1918,7 +2043,8 @@ countries = [
    	{
       	"name": "Kuwait",
       	"code": "KW",
-      	"capital": "Kuwait City",
+		  "capital": "Kuwait City",
+		  "population": 4137309,
       	"region": "AS",
       	"currency": {
             "code": "KWD",
@@ -1934,7 +2060,8 @@ countries = [
 	{
       	"name": "Kyrgyzstan",
       	"code": "KG",
-      	"capital": "Bishkek",
+		  "capital": "Bishkek",
+		  "population": 6322800,
       	"region": "AS",
       	"currency": {
             "code": "KGS",
@@ -1948,9 +2075,10 @@ countries = [
       	"flag": "https://restcountries.eu/data/kgz.svg"
    	},
    	{
-      	"name": "Lao People's Democratic Republic",
+      	"name": "Laos People's Democratic Republic",
       	"code": "LA",
-      	"capital": "Vientiane",
+		  "capital": "Vientiane",
+		  "population": 7061507,
       	"region": "AS",
       	"currency": {
             "code": "LAK",
@@ -1966,7 +2094,8 @@ countries = [
    	{
       	"name": "Latvia",
       	"code": "LV",
-      	"capital": "Riga",
+		  "capital": "Riga",
+		  "population": 1927174,
       	"region": "EU",
       	"currency": {
             "code": "EUR",
@@ -1982,7 +2111,8 @@ countries = [
    	{
       	"name": "Lebanon",
       	"code": "LB",
-      	"capital": "Beirut",
+		  "capital": "Beirut",
+		  "population": 6848925,
       	"region": "AS",
       	"currency": {
             "code": "LBP",
@@ -1998,7 +2128,8 @@ countries = [
    	{
       	"name": "Lesotho",
       	"code": "LS",
-      	"capital": "Maseru",
+		  "capital": "Maseru",
+		  "population": 2108132,
       	"region": "AF",
       	"currency": {
             "code": "LSL",
@@ -2014,7 +2145,8 @@ countries = [
    	{
       	"name": "Liberia",
       	"code": "LR",
-      	"capital": "Monrovia",
+		  "capital": "Monrovia",
+		  "population": 4818977,
       	"region": "AF",
       	"currency": {
             "code": "LRD",
@@ -2028,9 +2160,10 @@ countries = [
       	"flag": "https://restcountries.eu/data/lbr.svg"
    	},
    	{
-      	"name": "Libya",
+      	"name": "Libyan Arab Jamahiriya",
       	"code": "LY",
-      	"capital": "Tripoli",
+		  "capital": "Tripoli",
+		  "population": 6678567,
       	"region": "AF",
       	"currency": {
             "code": "LYD",
@@ -2046,7 +2179,8 @@ countries = [
    	{
       	"name": "Liechtenstein",
       	"code": "LI",
-      	"capital": "Vaduz",
+		  "capital": "Vaduz",
+		  "population": 37910,
       	"region": "EU",
       	"currency": {
             "code": "CHF",
@@ -2062,7 +2196,8 @@ countries = [
    	{
       	"name": "Lithuania",
       	"code": "LT",
-      	"capital": "Vilnius",
+		  "capital": "Vilnius",
+		  "population": 2801543,
       	"region": "EU",
       	"currency": {
             "code": "EUR",
@@ -2078,7 +2213,8 @@ countries = [
    	{
       	"name": "Luxembourg",
       	"code": "LU",
-      	"capital": "Luxembourg",
+		  "capital": "Luxembourg",
+		  "population": 607950,
       	"region": "EU",
       	"currency": {
             "code": "EUR",
@@ -2094,7 +2230,8 @@ countries = [
    	{
       	"name": "Macao",
       	"code": "MO",
-      	"capital": "",
+		  "capital": "",
+		  "population": 631636,
       	"region": "AS",
       	"currency": {
             "code": "MOP",
@@ -2110,7 +2247,8 @@ countries = [
    	{
       	"name": "Macedonia (the former Yugoslav Republic of)",
       	"code": "MK",
-      	"capital": "Skopje",
+		  "capital": "Skopje",
+		  "population": 2084367,
       	"region": "EU",
       	"currency": {
             "code": "MKD",
@@ -2126,7 +2264,8 @@ countries = [
    	{
       	"name": "Madagascar",
       	"code": "MG",
-      	"capital": "Antananarivo",
+		  "capital": "Antananarivo",
+		  "population": 26262368,
       	"region": "AF",
       	"currency": {
             "code": "MGA",
@@ -2142,7 +2281,8 @@ countries = [
    	{
       	"name": "Malawi",
       	"code": "MW",
-      	"capital": "Lilongwe",
+		  "capital": "Lilongwe",
+		  "population": 18143315,
       	"region": "AF",
       	"currency": {
             "code": "MWK",
@@ -2158,7 +2298,8 @@ countries = [
    	{
       	"name": "Malaysia",
       	"code": "MY",
-      	"capital": "Kuala Lumpur",
+		  "capital": "Kuala Lumpur",
+		  "population": 31528585,
       	"region": "AS",
       	"currency": {
             "code": "MYR",
@@ -2174,7 +2315,8 @@ countries = [
    	{
       	"name": "Maldives",
       	"code": "MV",
-      	"capital": "Malé",
+		  "capital": "Malé",
+		  "population": 515696,
       	"region": "AS",
       	"currency": {
             "code": "MVR",
@@ -2190,7 +2332,8 @@ countries = [
    	{
       	"name": "Mali",
       	"code": "ML",
-      	"capital": "Bamako",
+		  "capital": "Bamako",
+        "population": 19077690,
       	"region": "AF",
       	"currency": {
             "code": "XOF",
@@ -2206,7 +2349,8 @@ countries = [
    	{
       	"name": "Malta",
       	"code": "MT",
-      	"capital": "Valletta",
+		  "capital": "Valletta",
+		  "population": 484630,
       	"region": "EU",
       	"currency": {
             "code": "EUR",
@@ -2222,7 +2366,8 @@ countries = [
    	{
       	"name": "Marshall Islands",
       	"code": "MH",
-      	"capital": "Majuro",
+		  "capital": "Majuro",
+		  "population": 58413,
       	"region": "OC",
       	"currency": {
             "code": "USD",
@@ -2238,7 +2383,8 @@ countries = [
    	{
       	"name": "Martinique",
       	"code": "MQ",
-      	"capital": "Fort-de-France",
+		  "capital": "Fort-de-France",
+		  "population": 376480,
       	"region": "Americas",
       	"currency": {
             "code": "EUR",
@@ -2254,7 +2400,8 @@ countries = [
   	{
       	"name": "Mauritania",
       	"code": "MR",
-      	"capital": "Nouakchott",
+		  "capital": "Nouakchott",
+		  "population": 4403319,
       	"region": "AF",
       	"currency": {
             "code": "MRO",
@@ -2270,7 +2417,8 @@ countries = [
    	{
       	"name": "Mauritius",
       	"code": "MU",
-      	"capital": "Port Louis",
+		  "capital": "Port Louis",
+		  "population": 1265303,
       	"region": "AF",
       	"currency": {
             "code": "MUR",
@@ -2286,7 +2434,8 @@ countries = [
    	{
       	"name": "Mayotte",
       	"code": "YT",
-      	"capital": "Mamoudzou",
+		  "capital": "Mamoudzou",
+		  "population": 270372,
       	"region": "AF",
       	"currency": {
             "code": "EUR",
@@ -2302,7 +2451,8 @@ countries = [
    	{
       	"name": "Mexico",
       	"code": "MX",
-      	"capital": "Mexico City",
+		  "capital": "Mexico City",
+		  "population": 126190788,
       	"region": "NA",
       	"currency": {
             "code": "MXN",
@@ -2318,7 +2468,8 @@ countries = [
    	{
       	"name": "Micronesia (Federated States of)",
       	"code": "FM",
-      	"capital": "Palikir",
+		  "capital": "Palikir",
+		  "population": 112640,
       	"region": "OC",
       	"currency": {
             "code": "USD",
@@ -2334,7 +2485,8 @@ countries = [
    	{
       	"name": "Moldova (Republic of)",
       	"code": "MD",
-      	"capital": "Chișinău",
+		  "capital": "Chișinău",
+		  "population": 2706049,
       	"region": "EU",
       	"currency": {
             "code": "MDL",
@@ -2350,7 +2502,8 @@ countries = [
    	{
       	"name": "Monaco",
       	"code": "MC",
-      	"capital": "Monaco",
+		  "capital": "Monaco",
+		  "population": 38682,
       	"region": "EU",
       	"currency": {
             "code": "EUR",
@@ -2366,7 +2519,8 @@ countries = [
    	{
       	"name": "Mongolia",
       	"code": "MN",
-      	"capital": "Ulan Bator",
+		  "capital": "Ulan Bator",
+		  "population": 3170208,
       	"region": "AS",
       	"currency": {
             "code": "MNT",
@@ -2382,7 +2536,8 @@ countries = [
   	{
       	"name": "Montenegro",
       	"code": "ME",
-      	"capital": "Podgorica",
+		  "capital": "Podgorica",
+		  "population": 631219,
       	"region": "EU",
       	"currency": {
             "code": "EUR",
@@ -2398,7 +2553,8 @@ countries = [
    	{
       	"name": "Montserrat",
       	"code": "MS",
-      	"capital": "Plymouth",
+		  "capital": "Plymouth",
+		  "population": 5900,
       	"region": "NA",
       	"currency": {
             "code": "XCD",
@@ -2414,7 +2570,8 @@ countries = [
    	{
       	"name": "Morocco",
       	"code": "MA",
-      	"capital": "Rabat",
+		  "capital": "Rabat",
+		  "population": 36029138,
       	"region": "AF",
       	"currency": {
             "code": "MAD",
@@ -2430,7 +2587,8 @@ countries = [
    	{
       	"name": "Mozambique",
       	"code": "MZ",
-      	"capital": "Maputo",
+		  "capital": "Maputo",
+		  "population": 29495962,
       	"region": "AF",
       	"currency": {
             "code": "MZN",
@@ -2446,7 +2604,8 @@ countries = [
    	{
       	"name": "Myanmar",
       	"code": "MM",
-      	"capital": "Naypyidaw",
+		  "capital": "Naypyidaw",
+		  "population": 53708395,
       	"region": "AS",
       	"currency": {
             "code": "MMK",
@@ -2462,7 +2621,8 @@ countries = [
    	{
       	"name": "Namibia",
       	"code": "NA",
-      	"capital": "Windhoek",
+		  "capital": "Windhoek",
+		  "population": 2448255,
       	"region": "AF",
       	"currency": {
             "code": "NAD",
@@ -2478,7 +2638,8 @@ countries = [
    	{
       	"name": "Nauru",
       	"code": "NR",
-      	"capital": "Yaren",
+		  "capital": "Yaren",
+		  "population": 12704,
       	"region": "OC",
       	"currency": {
             "code": "AUD",
@@ -2494,7 +2655,8 @@ countries = [
    	{
       	"name": "Nepal",
       	"code": "NP",
-      	"capital": "Kathmandu",
+		  "capital": "Kathmandu",
+		  "population": 28087871,
       	"region": "AS",
       	"currency": {
             "code": "NPR",
@@ -2510,7 +2672,8 @@ countries = [
    	{
       	"name": "Netherlands",
       	"code": "NL",
-      	"capital": "Amsterdam",
+		  "capital": "Amsterdam",
+		  "population": 17231624,
       	"region": "EU",
       	"currency": {
             "code": "EUR",
@@ -2526,7 +2689,8 @@ countries = [
    	{
       	"name": "New Caledonia",
       	"code": "NC",
-      	"capital": "Nouméa",
+		  "capital": "Nouméa",
+		  "population": 284060,
       	"region": "OC",
       	"currency": {
             "code": "XPF",
@@ -2542,7 +2706,8 @@ countries = [
    	{
       	"name": "New Zealand",
       	"code": "NZ",
-      	"capital": "Wellington",
+		  "capital": "Wellington",
+		  "population": 4841000,
       	"region": "OC",
       	"currency": {
             "code": "NZD",
@@ -2558,7 +2723,8 @@ countries = [
    {
       	"name": "Nicaragua",
       	"code": "NI",
-      	"capital": "Managua",
+		  "capital": "Managua",
+		  "population": 6465513,
       	"region": "NA",
       	"currency": {
             "code": "NIO",
@@ -2574,7 +2740,8 @@ countries = [
    	{
       	"name": "Niger",
       	"code": "NE",
-      	"capital": "Niamey",
+		  "capital": "Niamey",
+		  "population": 22442948,
       	"region": "AF",
       	"currency": {
             "code": "XOF",
@@ -2590,7 +2757,8 @@ countries = [
    	{
       	"name": "Nigeria",
       	"code": "NG",
-      	"capital": "Abuja",
+		  "capital": "Abuja",
+		  "population": 195874740,
       	"region": "AF",
       	"currency": {
             "code": "NGN",
@@ -2606,7 +2774,8 @@ countries = [
    	{
       	"name": "Niue",
       	"code": "NU",
-      	"capital": "Alofi",
+		  "capital": "Alofi",
+		  "population": 1624,
       	"region": "OC",
       	"currency": {
             "code": "NZD",
@@ -2622,7 +2791,8 @@ countries = [
    	{
       	"name": "Norfolk Island",
       	"code": "NF",
-      	"capital": "Kingston",
+		  "capital": "Kingston",
+		  "population": 2169,
       	"region": "OC",
       	"currency": {
             "code": "AUD",
@@ -2636,9 +2806,10 @@ countries = [
       	"flag": "https://restcountries.eu/data/nfk.svg"
    	},
    	{
-      	"name": "Korea (Democratic People's Republic of)",
+      	"name": "North Korea",
       	"code": "KP",
-      	"capital": "Pyongyang",
+		  "capital": "Pyongyang",
+		  "population": 25549819,
       	"region": "AS",
       	"currency": {
             "code": "KPW",
@@ -2654,7 +2825,8 @@ countries = [
    	{
       	"name": "Northern Mariana Islands",
       	"code": "MP",
-      	"capital": "Saipan",
+		  "capital": "Saipan",
+		  "population": 56882,
       	"region": "OC",
       	"currency": {
             "code": "USD",
@@ -2670,7 +2842,8 @@ countries = [
    	{
       	"name": "Norway",
       	"code": "NO",
-      	"capital": "Oslo",
+		  "capital": "Oslo",
+		  "population": 5311916,
       	"region": "EU",
       	"currency": {
             "code": "NOK",
@@ -2686,7 +2859,8 @@ countries = [
    	{
       	"name": "Oman",
       	"code": "OM",
-      	"capital": "Muscat",
+		  "capital": "Muscat",
+		  "population": 4829483,
       	"region": "AS",
       	"currency": {
             "code": "OMR",
@@ -2702,7 +2876,8 @@ countries = [
    	{
       	"name": "Pakistan",
       	"code": "PK",
-      	"capital": "Islamabad",
+		  "capital": "Islamabad",
+		  "population": 212215030,
       	"region": "AS",
       	"currency": {
             "code": "PKR",
@@ -2718,7 +2893,8 @@ countries = [
    	{
       "name": "Palau",
       "code": "PW",
-      "capital": "Ngerulmud",
+	  "capital": "Ngerulmud",
+	  "population": 17907,
       "region": "OC",
       "currency": {
             "code": "USD",
@@ -2732,25 +2908,10 @@ countries = [
       	"flag": "https://restcountries.eu/data/plw.svg"
    	},
    	{
-      	"name": "Palestine, State of",
-      	"code": "PS",
-      	"capital": "Ramallah",
-      	"region": "AS",
-      	"currency": {
-            "code": "ILS",
-            "name": "Israeli new sheqel",
-            "symbol": "₪"
-     	},
-      	"language": {
-            "code": "ar",
-            "name": "Arabic",
-     	},
-      	"flag": "https://restcountries.eu/data/pse.svg"
-   	},
-   	{
       	"name": "Panama",
      	"code": "PA",
-      	"capital": "Panama City",
+		  "capital": "Panama City",
+		  "population": 4176873,
       	"region": "NA",
       	"currency": {
             "code": "USD",
@@ -2766,7 +2927,8 @@ countries = [
    	{
       	"name": "Papua New Guinea",
       	"code": "PG",
-      	"capital": "Port Moresby",
+		  "capital": "Port Moresby",
+		  "population": 8606316,
       	"region": "OC",
       	"currency": {
             "code": "PGK",
@@ -2782,7 +2944,8 @@ countries = [
    	{
       	"name": "Paraguay",
       	"code": "PY",
-      	"capital": "Asunción",
+		  "capital": "Asunción",
+		  "population": 6956071,
       	"region": "SA",
       	"currency": {
             "code": "PYG",
@@ -2798,7 +2961,8 @@ countries = [
    	{
       	"name": "Peru",
       	"code": "PE",
-      	"capital": "Lima",
+		  "capital": "Lima",
+		  "population": 31989256,
       	"region": "SA",
       	"currency": {
             "code": "PEN",
@@ -2814,7 +2978,8 @@ countries = [
    	{
       	"name": "Philippines",
       	"code": "PH",
-      	"capital": "Manila",
+		  "capital": "Manila",
+		  "population": 106651922,
       	"region": "AS",
       	"currency": {
             "code": "PHP",
@@ -2830,7 +2995,8 @@ countries = [
    	{
       	"name": "Pitcairn",
       	"code": "PN",
-      	"capital": "Adamstown",
+		  "capital": "Adamstown",
+		  "population": 67,
       	"region": "OC",
       	"currency": {
             "code": "NZD",
@@ -2846,7 +3012,8 @@ countries = [
    	{
       	"name": "Poland",
       	"code": "PL",
-      	"capital": "Warsaw",
+		  "capital": "Warsaw",
+		  "population": 37974750,
       	"region": "EU",
       	"currency": {
             "code": "PLN",
@@ -2862,7 +3029,8 @@ countries = [
    	{
       	"name": "Portugal",
       	"code": "PT",
-      	"capital": "Lisbon",
+		  "capital": "Lisbon",
+		  "population": 10283822,
       	"region": "EU",
       	"currency": {
             "code": "EUR",
@@ -2878,7 +3046,8 @@ countries = [
    	{
       	"name": "Puerto Rico",
       	"code": "PR",
-      	"capital": "San Juan",
+		  "capital": "San Juan",
+		  "population": 3195153,
       	"region": "NA",
       	"currency": {
             "code": "USD",
@@ -2894,7 +3063,8 @@ countries = [
    	{
       	"name": "Qatar",
       	"code": "QA",
-      	"capital": "Doha",
+		  "capital": "Doha",
+		  "population": 2781677,
       	"region": "AS",
       	"currency": {
             "code": "QAR",
@@ -2910,7 +3080,8 @@ countries = [
    	{
       	"name": "Republic of Kosovo",
       	"code": "XK",
-      	"capital": "Pristina",
+		  "capital": "Pristina",
+		  "population": 1810463,
       	"region": "EU",
       	"currency": {
             "code": "EUR",
@@ -2926,7 +3097,8 @@ countries = [
    	{
       	"name": "Réunion",
       	"code": "RE",
-      	"capital": "Saint-Denis",
+		  "capital": "Saint-Denis",
+		  "population": 859959,
       	"region": "AF",
       	"currency": {
             "code": "EUR",
@@ -2942,7 +3114,8 @@ countries = [
   	{
       	"name": "Romania",
       	"code": "RO",
-      	"capital": "Bucharest",
+		  "capital": "Bucharest",
+		  "population": 19466145,
       	"region": "EU",
       	"currency": {
             "code": "RON",
@@ -2958,7 +3131,8 @@ countries = [
    	{
       	"name": "Russian Federation",
       	"code": "RU",
-      	"capital": "Moscow",
+		  "capital": "Moscow",
+		  "population": 144478050,
       	"region": "EU",
       	"currency": {
             "code": "RUB",
@@ -2974,7 +3148,8 @@ countries = [
    	{
       	"name": "Rwanda",
       	"code": "RW",
-      	"capital": "Kigali",
+		  "capital": "Kigali",
+		  "population": 12301939,
       	"region": "AF",
       	"currency": {
             "code": "RWF",
@@ -2990,7 +3165,8 @@ countries = [
    	{
       	"name": "Saint Barthélemy",
       	"code": "BL",
-      	"capital": "Gustavia",
+		  "capital": "Gustavia",
+		  "population": 9793,
       	"region": "NA",
       	"currency": {
             "code": "EUR",
@@ -3004,9 +3180,10 @@ countries = [
       	"flag": "https://restcountries.eu/data/blm.svg"
    	},
    	{
-      	"name": "Saint Helena, Ascension and Tristan da Cunha",
+      	"name": "Saint Helena",
       	"code": "SH",
-      	"capital": "Jamestown",
+		  "capital": "Jamestown",
+		  "population": 6600,
       	"region": "AF",
       	"currency": {
             "code": "SHP",
@@ -3022,7 +3199,8 @@ countries = [
    	{
       	"name": "Saint Kitts and Nevis",
       	"code": "KN",
-      	"capital": "Basseterre",
+		  "capital": "Basseterre",
+		  "population": 52441,
       	"region": "NA",
       	"currency": {
             "code": "XCD",
@@ -3038,7 +3216,8 @@ countries = [
    	{
       	"name": "Saint Lucia",
       	"code": "LC",
-      	"capital": "Castries",
+		  "capital": "Castries",
+		  "population": 181889,
       	"region": "NA",
       	"currency": {
             "code": "XCD",
@@ -3052,9 +3231,10 @@ countries = [
       	"flag": "https://restcountries.eu/data/lca.svg"
    	},
    	{
-      	"name": "Saint Martin (French part)",
+      	"name": "Saint Martin",
       	"code": "MF",
-      	"capital": "Marigot",
+		  "capital": "Marigot",
+		  "population": 98670,
       	"region": "NA",
       	"currency": {
             "code": "EUR",
@@ -3070,7 +3250,8 @@ countries = [
    	{
       	"name": "Saint Pierre and Miquelon",
       	"code": "PM",
-      	"capital": "Saint-Pierre",
+		  "capital": "Saint-Pierre",
+		  "population": 5888,
       	"region": "NA",
       	"currency": {
             "code": "EUR",
@@ -3086,7 +3267,8 @@ countries = [
    	{
       	"name": "Saint Vincent and the Grenadines",
       	"code": "VC",
-      	"capital": "Kingstown",
+		  "capital": "Kingstown",
+		  "population": 110210,
       	"region": "NA",
       	"currency": {
             "code": "XCD",
@@ -3102,7 +3284,8 @@ countries = [
    	{
       	"name": "Samoa",
       	"code": "WS",
-      	"capital": "Apia",
+		  "capital": "Apia",
+		  "population": 196130,
       	"region": "OC",
       	"currency": {
             "code": "WST",
@@ -3118,7 +3301,8 @@ countries = [
    	{
       	"name": "San Marino",
       	"code": "SM",
-      	"capital": "City of San Marino",
+		  "capital": "City of San Marino",
+		  "population": 33785,
       	"region": "EU",
       	"currency": {
             "code": "EUR",
@@ -3134,7 +3318,8 @@ countries = [
    	{
       	"name": "Sao Tome and Principe",
       	"code": "ST",
-      	"capital": "São Tomé",
+		  "capital": "São Tomé",
+		  "population": 211028,
       	"region": "AF",
       	"currency": {
             "code": "STD",
@@ -3150,7 +3335,8 @@ countries = [
    	{
       	"name": "Saudi Arabia",
       	"code": "SA",
-      	"capital": "Riyadh",
+		  "capital": "Riyadh",
+		  "population": 33699947,
       	"region": "AS",
       	"currency": {
             "code": "SAR",
@@ -3166,7 +3352,8 @@ countries = [
    	{
       	"name": "Senegal",
       	"code": "SN",
-      	"capital": "Dakar",
+		  "capital": "Dakar",
+		  "population": 15854360,
       	"region": "AF",
       	"currency": {
             "code": "XOF",
@@ -3182,7 +3369,8 @@ countries = [
    	{
       	"name": "Serbia",
       	"code": "RS",
-      	"capital": "Belgrade",
+		  "capital": "Belgrade",
+		  "population": 6963764,
       	"region": "EU",
       	"currency": {
             "code": "RSD",
@@ -3198,7 +3386,8 @@ countries = [
    	{
       	"name": "Seychelles",
       	"code": "SC",
-      	"capital": "Victoria",
+		  "capital": "Victoria",
+		  "population": 96762,
       	"region": "AF",
       	"currency": {
             "code": "SCR",
@@ -3214,7 +3403,8 @@ countries = [
    	{
       	"name": "Sierra Leone",
       	"code": "SL",
-      	"capital": "Freetown",
+		  "capital": "Freetown",
+		  "population": 7650154,
       	"region": "AF",
       	"currency": {
             "code": "SLL",
@@ -3230,7 +3420,8 @@ countries = [
    	{
       	"name": "Singapore",
       	"code": "SG",
-      	"capital": "Singapore",
+		  "capital": "Singapore",
+		  "population": 5638676,
       	"region": "AS",
       	"currency": {
             "code": "SGD",
@@ -3244,9 +3435,10 @@ countries = [
       	"flag": "https://restcountries.eu/data/sgp.svg"
    	},
    	{
-      	"name": "Sint Maarten (Dutch part)",
+      	"name": "Sint Maarten",
       	"code": "SX",
-      	"capital": "Philipsburg",
+		  "capital": "Philipsburg",
+		  "population": 41486,
       	"region": "Americas",
       	"currency": {
             "code": "ANG",
@@ -3262,7 +3454,8 @@ countries = [
    	{
       	"name": "Slovakia",
       	"code": "SK",
-      	"capital": "Bratislava",
+		"capital": "Bratislava",
+        "population": 5446771,
       	"region": "EU",
       	"currency": {
             "code": "EUR",
@@ -3278,7 +3471,8 @@ countries = [
    	{
       	"name": "Slovenia",
       	"code": "SI",
-      	"capital": "Ljubljana",
+		  "capital": "Ljubljana",
+		  "population": 2073894,
       	"region": "EU",
       	"currency": {
             "code": "EUR",
@@ -3294,7 +3488,8 @@ countries = [
    	{
       	"name": "Solomon Islands",
       	"code": "SB",
-      	"capital": "Honiara",
+		  "capital": "Honiara",
+		  "population": 652858,
       	"region": "OC",
       	"currency": {
             "code": "SBD",
@@ -3310,7 +3505,8 @@ countries = [
    	{
       	"name": "Somalia",
       	"code": "SO",
-      	"capital": "Mogadishu",
+		  "capital": "Mogadishu",
+		  "population": 15008154,
       	"region": "AF",
       	"currency": {
             "code": "SOS",
@@ -3326,7 +3522,8 @@ countries = [
    	{
       	"name": "South Africa",
       	"code": "ZA",
-      	"capital": "Pretoria",
+		"capital": "Pretoria",
+        "population": 57779622,
       	"region": "AF",
       	"currency": {
             "code": "ZAR",
@@ -3344,7 +3541,8 @@ countries = [
    	{
       	"name": "South Georgia and the South Sandwich Islands",
       	"code": "GS",
-      	"capital": "King Edward Point",
+		  "capital": "King Edward Point",
+		  "population": 30,
       	"region": "NA",
       	"currency": {
             "code": "GBP",
@@ -3358,9 +3556,10 @@ countries = [
       	"flag": "https://restcountries.eu/data/sgs.svg"
    	},
    	{
-      	"name": "Korea (Republic of)",
+      	"name": "South Korea",
       	"code": "KR",
-      	"capital": "Seoul",
+		  "capital": "Seoul",
+		  "population": 51606633,
       	"region": "AS",
       	"currency": {
             "code": "KRW",
@@ -3376,7 +3575,8 @@ countries = [
    	{
       	"name": "South Sudan",
       	"code": "SS",
-      	"capital": "Juba",
+		  "capital": "Juba",
+		  "population": 10975920,
       	"region": "AF",
       	"currency": {
             "code": "SSP",
@@ -3392,7 +3592,8 @@ countries = [
    	{
       	"name": "Spain",
       	"code": "ES",
-      	"capital": "Madrid",
+		  "capital": "Madrid",
+		  "population": 46796540,
       	"region": "EU",
       	"currency": {
             "code": "EUR",
@@ -3408,7 +3609,8 @@ countries = [
    	{
       	"name": "Sri Lanka",
       	"code": "LK",
-      	"capital": "Colombo",
+		  "capital": "Colombo",
+		  "population": 21670000,
       	"region": "AS",
       	"currency": {
             "code": "LKR",
@@ -3426,7 +3628,8 @@ countries = [
    	{
       	"name": "Sudan",
       	"code": "SD",
-      	"capital": "Khartoum",
+		  "capital": "Khartoum",
+		  "population": 41801533,
       	"region": "AF",
       	"currency": {
             "code": "SDG",
@@ -3442,7 +3645,8 @@ countries = [
    	{
       	"name": "Suriname",
       	"code": "SR",
-      	"capital": "Paramaribo",
+		  "capital": "Paramaribo",
+		  "population": 575991,
       	"region": "SA",
       	"currency": {
             "code": "SRD",
@@ -3458,7 +3662,8 @@ countries = [
    	{
       	"name": "Svalbard and Jan Mayen",
       	"code": "SJ",
-      	"capital": "Longyearbyen",
+		  "capital": "Longyearbyen",
+		  "population": 2572,
       	"region": "EU",
       	"currency": {
             "code": "NOK",
@@ -3474,7 +3679,8 @@ countries = [
    	{
       	"name": "Swaziland",
       	"code": "SZ",
-      	"capital": "Lobamba",
+		  "capital": "Lobamba",
+		  "population": 1136191,
       	"region": "AF",
       	"currency": {
             "code": "SZL",
@@ -3490,7 +3696,8 @@ countries = [
    	{
       	"name": "Sweden",
       	"code": "SE",
-      	"capital": "Stockholm",
+		  "capital": "Stockholm",
+		  "population": 10175214,
       	"region": "EU",
       	"currency": {
             "code": "SEK",
@@ -3506,7 +3713,8 @@ countries = [
    	{
       	"name": "Switzerland",
       	"code": "CH",
-      	"capital": "Bern",
+		  "capital": "Bern",
+		  "population": 8513227,
       	"region": "EU",
       	"currency": {
             "code": "CHF",
@@ -3522,7 +3730,8 @@ countries = [
    	{
       	"name": "Syrian Arab Republic",
       	"code": "SY",
-      	"capital": "Damascus",
+		  "capital": "Damascus",
+		  "population": 16906283,
       	"region": "AS",
       	"currency": {
             "code": "SYP",
@@ -3538,7 +3747,8 @@ countries = [
    	{
       	"name": "Taiwan",
       	"code": "TW",
-      	"capital": "Taipei",
+		  "capital": "Taipei",
+		  "population": 23780452,
       	"region": "AS",
       	"currency": {
             "code": "TWD",
@@ -3554,7 +3764,8 @@ countries = [
    	{
       	"name": "Tajikistan",
       	"code": "TJ",
-      	"capital": "Dushanbe",
+		  "capital": "Dushanbe",
+		  "population": 9100837,
       	"region": "AS",
       	"currency": {
             "code": "TJS",
@@ -3568,9 +3779,10 @@ countries = [
       	"flag": "https://restcountries.eu/data/tjk.svg"
    	},
    	{
-      	"name": "Tanzania, United Republic of",
+      	"name": "Tanzania",
       	"code": "TZ",
-      	"capital": "Dodoma",
+		  "capital": "Dodoma",
+		  "population": 56318348,
       	"region": "AF",
       	"currency": {
             "code": "TZS",
@@ -3586,7 +3798,8 @@ countries = [
    	{
       	"name": "Thailand",
       	"code": "TH",
-      	"capital": "Bangkok",
+		  "capital": "Bangkok",
+		  "population": 69428524,
       	"region": "AS",
       	"currency": {
             "code": "THB",
@@ -3602,7 +3815,8 @@ countries = [
    	{
       	"name": "Timor-Leste",
       	"code": "TL",
-      	"capital": "Dili",
+		  "capital": "Dili",
+		  "population": 1183643,
       	"region": "AS",
       	"currency": {
             "code": "USD",
@@ -3618,7 +3832,8 @@ countries = [
    	{
       	"name": "Togo",
       	"code": "TG",
-      	"capital": "Lomé",
+		"capital": "Lomé",
+        "population": 7889094,
       	"region": "AF",
       	"currency": {
             "code": "XOF",
@@ -3634,7 +3849,8 @@ countries = [
    	{
       	"name": "Tokelau",
       	"code": "TK",
-      	"capital": "Fakaofo",
+		  "capital": "Fakaofo",
+		  "population": 1411,
       	"region": "OC",
       	"currency": {
             "code": "NZD",
@@ -3650,7 +3866,8 @@ countries = [
    	{
       	"name": "Tonga",
       	"code": "TO",
-      	"capital": "Nuku'alofa",
+		  "capital": "Nuku'alofa",
+		  "population": 103197,
       	"region": "OC",
       	"currency": {
             "code": "TOP",
@@ -3666,7 +3883,8 @@ countries = [
    	{
       	"name": "Trinidad and Tobago",
       	"code": "TT",
-      	"capital": "Port of Spain",
+		  "capital": "Port of Spain",
+		  "population": 1389858,
       	"region": "SA",
       	"currency": {
             "code": "TTD",
@@ -3682,7 +3900,8 @@ countries = [
    	{
       	"name": "Tunisia",
       	"code": "TN",
-      	"capital": "Tunis",
+		  "capital": "Tunis",
+		  "population": 11565204,
       	"region": "AF",
       	"currency": {
             "code": "TND",
@@ -3698,7 +3917,8 @@ countries = [
    	{
       	"name": "Turkey",
       	"code": "TR",
-      	"capital": "Ankara",
+		  "capital": "Ankara",
+		  "population": 82319724,
       	"region": "AS",
       	"currency": {
             "code": "TRY",
@@ -3714,7 +3934,8 @@ countries = [
    	{
       	"name": "Turkmenistan",
       	"code": "TM",
-      	"capital": "Ashgabat",
+		  "capital": "Ashgabat",
+		  "population": 5850908,
       	"region": "AS",
       	"currency": {
             "code": "TMT",
@@ -3730,7 +3951,8 @@ countries = [
    	{
       	"name": "Turks and Caicos Islands",
       	"code": "TC",
-      	"capital": "Cockburn Town",
+		  "capital": "Cockburn Town",
+		  "population": 37665,
       	"region": "NA",
       	"currency": {
             "code": "USD",
@@ -3746,7 +3968,8 @@ countries = [
    	{
       	"name": "Tuvalu",
       	"code": "TV",
-      	"capital": "Funafuti",
+		  "capital": "Funafuti",
+		  "population": 11508,
       	"region": "OC",
       	"currency": {
             "code": "AUD",
@@ -3762,7 +3985,8 @@ countries = [
    	{
       	"name": "Uganda",
       	"code": "UG",
-      	"capital": "Kampala",
+		  "capital": "Kampala",
+		  "population": 42723139,
       	"region": "AF",
       	"currency": {
             "code": "UGX",
@@ -3778,7 +4002,8 @@ countries = [
    	{
       	"name": "Ukraine",
       	"code": "UA",
-      	"capital": "Kiev",
+		  "capital": "Kiev",
+		  "population": 44622516,
       	"region": "EU",
       	"currency": {
             "code": "UAH",
@@ -3794,7 +4019,8 @@ countries = [
    	{
       	"name": "United Arab Emirates",
       	"code": "AE",
-      	"capital": "Abu Dhabi",
+		  "capital": "Abu Dhabi",
+		  "population": 9630959,
       	"region": "AS",
       	"currency": {
             "code": "AED",
@@ -3808,9 +4034,10 @@ countries = [
       	"flag": "https://restcountries.eu/data/are.svg"
    	},
    	{
-      	"name": "United Kingdom of Great Britain and Northern Ireland",
+      	"name": "United Kingdom",
       	"code": "GB",
-      	"capital": "London",
+		  "capital": "London",
+		  "population": 66460344,
       	"region": "EU",
       	"currency": {
             "code": "GBP",
@@ -3826,7 +4053,8 @@ countries = [
    	{
       	"name": "United States of America",
       	"code": "US",
-      	"capital": "Washington, D.C.",
+		  "capital": "Washington, D.C.",
+		  "population": 326687501,
       	"region": "NA",
       	"currency": {
             "code": "USD",
@@ -3844,7 +4072,8 @@ countries = [
    	{
       	"name": "Uruguay",
       	"code": "UY",
-      	"capital": "Montevideo",
+		  "capital": "Montevideo",
+		  "population": 3449299,
       	"region": "SA",
       	"currency": {
             "code": "UYU",
@@ -3860,7 +4089,8 @@ countries = [
    	{
       	"name": "Uzbekistan",
       	"code": "UZ",
-      	"capital": "Tashkent",
+		  "capital": "Tashkent",
+		  "population": 32955400,
       	"region": "AS",
       	"currency": {
             "code": "UZS",
@@ -3876,7 +4106,8 @@ countries = [
    	{
       	"name": "Vanuatu",
       	"code": "VU",
-      	"capital": "Port Vila",
+		  "capital": "Port Vila",
+		  "population": 292680,
       	"region": "OC",
       	"currency": {
             "code": "VUV",
@@ -3890,9 +4121,10 @@ countries = [
       	"flag": "https://restcountries.eu/data/vut.svg"
    	},
    	{
-      	"name": "Venezuela (Bolivarian Republic of)",
+      	"name": "Venezuela",
       	"code": "VE",
-      	"capital": "Caracas",
+		  "capital": "Caracas",
+		  "population": 28870195,
       	"region": "SA",
       	"currency": {
             "code": "VEF",
@@ -3906,9 +4138,10 @@ countries = [
       	"flag": "https://restcountries.eu/data/ven.svg"
    	},
    	{
-      	"name": "VietNam",
+      	"name": "Vietnam",
       	"code": "VN",
-      	"capital": "Hanoi",
+		  "capital": "Hanoi",
+		  "population": 95540395,
       	"region": "AS",
       	"currency": {
             "code": "VND",
@@ -3924,7 +4157,8 @@ countries = [
    	{
       	"name": "Wallis and Futuna",
       	"code": "WF",
-      	"capital": "Mata-Utu",
+		  "capital": "Mata-Utu",
+		  "population": 15289,
       	"region": "OC",
       	"currency": {
             "code": "XPF",
@@ -3940,7 +4174,8 @@ countries = [
    	{
       	"name": "Western Sahara",
       	"code": "EH",
-      	"capital": "El Aaiún",
+		  "capital": "El Aaiún",
+		  "population": 652271,
       	"region": "AF",
       	"currency": {
             "code": "MAD",
@@ -3956,7 +4191,8 @@ countries = [
    	{
       	"name": "Yemen",
       	"code": "YE",
-      	"capital": "Sana'a",
+		  "capital": "Sana'a",
+		  "population": 28498687,
       	"region": "AS",
       	"currency": {
             "code": "YER",
@@ -3972,7 +4208,8 @@ countries = [
    	{
       	"name": "Zambia",
       	"code": "ZM",
-      	"capital": "Lusaka",
+		  "capital": "Lusaka",
+		  "population": 17351822,
       	"region": "AF",
       	"currency": {
             "code": "ZMW",
@@ -3988,7 +4225,8 @@ countries = [
   	{
       	"name": "Zimbabwe",
       	"code": "ZW",
-     	"capital": "Harare",
+		 "capital": "Harare",
+		 "population": 14439018,
       	"region": "AF",
       	"currency": {
             "code": "BWP",
