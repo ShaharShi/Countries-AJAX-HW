@@ -5,15 +5,17 @@ $(function() {
 
 
     $('#getCountries').on('click', () => {
-
+        cardsContainer.html('<div class="loader"></div>')
+        
         getCountriesFromServer().then((result) => {
             draw(result)
-    
+            
         }).catch((err) => {
             console.error(err)
         });
     });
     $('#searchOperation').on('click', () => {
+        cardsContainer.html('<div class="loader"></div>')
         searchCountriesFromServer(searchValue).then((result) => {
             draw(result)
         }).catch((err) => {
@@ -51,7 +53,7 @@ function getCountriesFromServer() {
         setTimeout(() => {
             if (countries.length === 0) reject("There is a problem with the resource you are looking for with: 'countries.obj.js'")
             resolve(countries)
-        }, 2000);
+        }, 3000);
     })
 } 
 function searchCountriesFromServer(searchValue) {
@@ -61,6 +63,6 @@ function searchCountriesFromServer(searchValue) {
             if (countries.length === 0) reject("There is a problem with the resource you are looking for with: 'countries.obj.js'")
             const result = countries.filter(country => country.name.toLowerCase().includes(searchValue.val().toLowerCase()))
             resolve(result)
-        }, 2000);
+        }, 3000);
     })
 } 
