@@ -12,21 +12,15 @@ $(function() {
 
     const cardsContainer = $('#cardsContainer');
 
-    // $('#getCountries').on('click', getCountriesFromServer).then((countries) => {
-    //     draw(countries);
+    $('#getCountries').on('click', () => {
 
-    // }).catch((err) => {
-    //     console.log(err);
-    // })
-
-
-    getCountriesFromServer().then((countries) => {
-        draw(countries)
-
-    }).catch((err) => {
-        console.log(err)
+        getCountriesFromServer().then((countries) => {
+            draw(countries)
+    
+        }).catch((err) => {
+            console.log(err)
+        })
     })
-
 
     function draw(countries) {
         cardsContainer.empty();
