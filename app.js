@@ -7,17 +7,23 @@ $(function () {
 
     getCountriesFromServer()
       .then((result) => {
-        draw(result);
+        setTimeout(() => {
+          draw(result);
+        }, 3000)
       })
       .catch((err) => {
         console.error(err);
       });
   });
+
   $("#searchOperation").on("click", () => {
     cardsContainer.html('<div class="loader"></div>');
+
     searchCountriesFromServer(searchValue)
       .then((result) => {
-        draw(result);
+        setTimeout(() => {
+          draw(result);
+        }, 3000)
       })
       .catch((err) => {
         console.error(err);
@@ -48,27 +54,22 @@ $(function () {
 });
 
 function getCountriesFromServer() {
-  return new Promise((resolve, reject) => {
-    setTimeout(() => {
-      if (countries.length === 0)
-        reject(
-          "There is a problem with the resource you are looking for with: 'countries.obj.js'"
-        );
-      resolve(countries);
-    }, 3000);
-  });
+  return new Promise((resolve) => {
+    $.ajax({
+      url: "https://restcountries.eu/rest/v2/all"
+    }).done((countries) => {
+      resolve(countries)
+    })
+  })
 }
+
 function searchCountriesFromServer(searchValue) {
-  return new Promise((resolve, reject) => {
-    setTimeout(() => {
-      if (countries.length === 0)
-        reject(
-          "There is a problem with the resource you are looking for with: 'countries.obj.js'"
-        );
-      const result = countries.filter((country) =>
-        country.name.toLowerCase().includes(searchValue.val().toLowerCase())
-      );
-      resolve(result);
-    }, 3000);
-  });
+  return new Promise((resolve) => {
+    $.ajax({
+      url: "https://restcountries.eu/rest/v2/all"
+    }).done((countries) => {
+        const result = countries.filter((country) => country.name.toLowerCase().includes(searchValue.val().toLowerCase()))
+        resolve(result)
+    })
+  })
 }
